@@ -1,4 +1,4 @@
-name: Insecure CI
+name: Insecure CI 
 on:
     push:
     pull_request:
